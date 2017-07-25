@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/pazuzu156
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pazuzu156.github.io
+  * I am pazuzu156 (https://keybase.io/pazuzu156) on keybase.
+  * I have a public key with fingerprint 1202 0684 8BD3 3750 43BF  1B25 3209 FA22 E33F F70C
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;01014ba182a90a16a29c3ba02cee71ee711954324ad1fa53f31e00177d656d1f98780a&quot;,
+            &quot;fingerprint&quot;: &quot;120206848bd3375043bf1b253209fa22e33ff70c&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;key_id&quot;: &quot;3209fa22e33ff70c&quot;,
+            &quot;kid&quot;: &quot;01014ba182a90a16a29c3ba02cee71ee711954324ad1fa53f31e00177d656d1f98780a&quot;,
+            &quot;uid&quot;: &quot;7a453cb62ce8109810a5a9c726918a19&quot;,
+            &quot;username&quot;: &quot;pazuzu156&quot;
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;pazuzu156.github.io&quot;,
+            &quot;protocol&quot;: &quot;https:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;ctime&quot;: 1500942632,
+    &quot;expire_in&quot;: 157680000,
+    &quot;prev&quot;: &quot;ca235ee8d84b767ad1141196006a6a40761edd9305a102f62a93f3728273b4df&quot;,
+    &quot;seqno&quot;: 20,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIFUEYPmpGmoVhQqREDUERJ5mZ3Z3dPZGmUYkSItVDZJxmd2d11c4ez9lz
+8pIZdBETMkHxoSCIogvUU4qhYVRWqL2EkSUoaAhJeCHDErvMWr1Ejw38DPPzfd98
+/8d/aVWcJzYGJyyA8az5pJj+D5rncLQZ1gDNNqqArwaUsaWLlRss7PjLLAP4AEQQ
+iRpFCqYqpIhQrOqCRiHWGZORW0iVRAGL1EAmlQRTQAxCJMsGkQhvqYqsQAq8wLQC
+xSwUDFkBh8siDDEkiqhohiDIEhQFzUQalgQMVZNizATBNGWoc2KJHXYZ3JxGwyzD
+snmPP/xL9v6B/8++I0tyMhUlQdcIpysIqryoRFVdxkRFCkWqCwyzUIAeZxwdpNWR
+6giSCKj1At6OWjpzk3VH+RuSUWw5JRHt11zBkO3Yul3OASWOEwz7XAGnKugyTjDN
+/1vLr1kBg+fJGVEWClt2APgQR+qO5YojCUJVxETAXsAqg1aI+S0XIclEgfy4/7Ao
+8FGgUyxIjCmGImoykXkWSOTBEAgJJVSEMkHMMFQBShRBbBIeJk9KxgqWBU00TOCO
+VxGwgQ9zVYcWc59hqzhAnUiIgdrEhpj0ZZ6YWM/y+Fh31TyJCcl/9i+hbYWns0lS
+U9fMxJ1/9ePsuQ4D7qwf6g+eHNr0fPNX2jgNdvs/ew7suPKg59GTLX2tmaUN4uo3
+facn9b7UexXJ8YPvg31NcK4r55MV3Vg6UV/UlTFMWlquNqc+1ObSC+dLDhWuX9w2
+MTKZYO6tbc/fOju/vSF9ZGxxV/Yp74msjtvfm9tie7tHbyhH6yqVkakNad4jz+yC
+zsDHof1ZUxfzcpNJijhX0+KEmkih07rnWG7p5TMV1/eJ0zlj6+SZl087Hl+TUy7U
+OXdT395K09qH8zNffOtdebP94AyqHjQXZrLb61FBUtVYS/7Q67UD47OJdxqLst51
+3+8xpos6pjMH8r6M/gQ=
+=4pBY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pazuzu156
+
+==================================================================
+
