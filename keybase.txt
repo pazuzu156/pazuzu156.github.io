@@ -1,67 +1,56 @@
 ==================================================================
-https://keybase.io/pazuzu156
+https://keybase.io/apollyon156
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of https://pazuzu156.github.io
-  * I am pazuzu156 (https://keybase.io/pazuzu156) on keybase.
-  * I have a public key with fingerprint 1202 0684 8BD3 3750 43BF  1B25 3209 FA22 E33F F70C
+  * I am apollyon156 (https://keybase.io/apollyon156) on keybase.
+  * I have a public key ASBvwZUw-4qmsiOdRlLvO42v-5jdvES-SBZvX3YtYBnuawo
 
 To do so, I am signing this object:
 
 {
-    &quot;body&quot;: {
-        &quot;key&quot;: {
-            &quot;eldest_kid&quot;: &quot;01014ba182a90a16a29c3ba02cee71ee711954324ad1fa53f31e00177d656d1f98780a&quot;,
-            &quot;fingerprint&quot;: &quot;120206848bd3375043bf1b253209fa22e33ff70c&quot;,
-            &quot;host&quot;: &quot;keybase.io&quot;,
-            &quot;key_id&quot;: &quot;3209fa22e33ff70c&quot;,
-            &quot;kid&quot;: &quot;01014ba182a90a16a29c3ba02cee71ee711954324ad1fa53f31e00177d656d1f98780a&quot;,
-            &quot;uid&quot;: &quot;7a453cb62ce8109810a5a9c726918a19&quot;,
-            &quot;username&quot;: &quot;pazuzu156&quot;
-        },
-        &quot;service&quot;: {
-            &quot;hostname&quot;: &quot;pazuzu156.github.io&quot;,
-            &quot;protocol&quot;: &quot;https:&quot;
-        },
-        &quot;type&quot;: &quot;web_service_binding&quot;,
-        &quot;version&quot;: 1
+  "body": {
+    "key": {
+      "eldest_kid": "01206fc19530fb8aa6b2239d4652ef3b8daffb98ddbc44be48166f5f762d6019ee6b0a",
+      "host": "keybase.io",
+      "kid": "01206fc19530fb8aa6b2239d4652ef3b8daffb98ddbc44be48166f5f762d6019ee6b0a",
+      "uid": "0647fe604b3e789ffe8b4e1afa0b4e19",
+      "username": "apollyon156"
     },
-    &quot;ctime&quot;: 1500942632,
-    &quot;expire_in&quot;: 157680000,
-    &quot;prev&quot;: &quot;ca235ee8d84b767ad1141196006a6a40761edd9305a102f62a93f3728273b4df&quot;,
-    &quot;seqno&quot;: 20,
-    &quot;tag&quot;: &quot;signature&quot;
+    "merkle_root": {
+      "ctime": 1568320485,
+      "hash": "14b982bc400d72ef9e28ae3398d7c3634f66651c8741a0b8d6870243ab6636f95543d42875dcfc3784791173544a761dc93d4fb56f540e4e5ee8a34ea277056e",
+      "hash_meta": "7d71dd7135f6546dcd5f333625562793d47de5d5c699db79ef482c469a38c631",
+      "seqno": 7040700
+    },
+    "service": {
+      "entropy": "SNEA5bwGraZIhImF1JS6WEJ5",
+      "hostname": "pazuzu156.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568320493,
+  "expire_in": 504576000,
+  "prev": "ad29e622b00287b7943156f3e709192e0b1d24cf7d331fa5c4a12539edbfd5a0",
+  "seqno": 17,
+  "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-
-owGtUltIFUEYPmpGmoVhQqREDUERJ5mZ3Z3dPZGmUYkSItVDZJxmd2d11c4ez9lz
-8pIZdBETMkHxoSCIogvUU4qhYVRWqL2EkSUoaAhJeCHDErvMWr1Ejw38DPPzfd98
-/8d/aVWcJzYGJyyA8az5pJj+D5rncLQZ1gDNNqqArwaUsaWLlRss7PjLLAP4AEQQ
-iRpFCqYqpIhQrOqCRiHWGZORW0iVRAGL1EAmlQRTQAxCJMsGkQhvqYqsQAq8wLQC
-xSwUDFkBh8siDDEkiqhohiDIEhQFzUQalgQMVZNizATBNGWoc2KJHXYZ3JxGwyzD
-snmPP/xL9v6B/8++I0tyMhUlQdcIpysIqryoRFVdxkRFCkWqCwyzUIAeZxwdpNWR
-6giSCKj1At6OWjpzk3VH+RuSUWw5JRHt11zBkO3Yul3OASWOEwz7XAGnKugyTjDN
-/1vLr1kBg+fJGVEWClt2APgQR+qO5YojCUJVxETAXsAqg1aI+S0XIclEgfy4/7Ao
-8FGgUyxIjCmGImoykXkWSOTBEAgJJVSEMkHMMFQBShRBbBIeJk9KxgqWBU00TOCO
-VxGwgQ9zVYcWc59hqzhAnUiIgdrEhpj0ZZ6YWM/y+Fh31TyJCcl/9i+hbYWns0lS
-U9fMxJ1/9ePsuQ4D7qwf6g+eHNr0fPNX2jgNdvs/ew7suPKg59GTLX2tmaUN4uo3
-facn9b7UexXJ8YPvg31NcK4r55MV3Vg6UV/UlTFMWlquNqc+1ObSC+dLDhWuX9w2
-MTKZYO6tbc/fOju/vSF9ZGxxV/Yp74msjtvfm9tie7tHbyhH6yqVkakNad4jz+yC
-zsDHof1ZUxfzcpNJijhX0+KEmkih07rnWG7p5TMV1/eJ0zlj6+SZl087Hl+TUy7U
-OXdT395K09qH8zNffOtdebP94AyqHjQXZrLb61FBUtVYS/7Q67UD47OJdxqLst51
-3+8xpos6pjMH8r6M/gQ=
-=4pBY
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgb8GVMPuKprIjnUZS7zuNr/uY3bxEvkgWb192LWAZ7msKp3BheWxvYWTESpcCEcQgrSnmIrACh7eUMVbz5wkZLgsdJM99Mx+lxKElOe2/1aDEIAFPLJxjzMyzpwSTZg562LMLyzFLBmH25iHu4eIzTrypAgHCo3NpZ8RATt39WoLMR+ecHSlLc8Tk88QGjN5bL2SWCd9hoAgz8GMGHJJFdJEt5K79Vlnn0DCKHGN8arIo13+7g6RQwTHuDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDVGZ7RbRLa61zw2DR5iGEXAmagS+c6/PCCiZQIx0QDao3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/pazuzu156
+View my publicly-auditable identity here: https://keybase.io/apollyon156
 
 ==================================================================
-
